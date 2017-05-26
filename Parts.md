@@ -5,7 +5,18 @@
 [1](http://developer.okta.com/docs/api/resources/authn.html)
 
 
-
+```C#
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+ <system.webServer>
+   <httpProtocol>
+     <customHeaders>
+       <add name="Access-Control-Allow-Origin" value="*" />  
+     </customHeaders>
+   </httpProtocol>
+ </system.webServer>
+</configuration>
+```
 
 
 ![sendgrid](https://cloud.githubusercontent.com/assets/25159667/26448959/e1e1f66a-4160-11e7-9123-1f0bfa35162c.jpg)
