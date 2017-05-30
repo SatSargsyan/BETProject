@@ -37,5 +37,5 @@ system.net.mail
 [Using sendgrid](https://sendgrid.com/docs/Integrate/Code_Examples/v2_Mail/csharp.html)
 
 
-
+JSONIGNORE ATTRIBUTE
 
