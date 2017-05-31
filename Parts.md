@@ -51,3 +51,4 @@ system.net.mail
 #### [Parameter Binding in ASP.NET Web API](https://docs.microsoft.com/en-us/aspnet/web-api/overview/formats-and-model-binding/parameter-binding-in-aspnet-web-api)
 
 
+https://stackoverflow.com/questions/18606715/asp-net-web-api-generate-all-parameters-from-model-help-pages
