@@ -37,5 +37,17 @@ system.net.mail
 [Using sendgrid](https://sendgrid.com/docs/Integrate/Code_Examples/v2_Mail/csharp.html)
 
 
-JSONIGNORE ATTRIBUTE
+### JSONIGNORE ATTRIBUTE
+
+
+#### [Model Validation in ASP.NET Web API](https://docs.microsoft.com/en-us/aspnet/web-api/overview/formats-and-model-binding/model-validation-in-aspnet-web-api)
+
+#### [Add Models and Controllers](https://docs.microsoft.com/en-us/aspnet/web-api/overview/data/using-web-api-with-entity-framework/part-2)
+
+#### [Getting Started with ASP.NET Web API 2 (C#)](https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api)
+
+#### [Adding a Model (C#)](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-aspnet-mvc3/cs/adding-a-model)
+
+#### [Parameter Binding in ASP.NET Web API](https://docs.microsoft.com/en-us/aspnet/web-api/overview/formats-and-model-binding/parameter-binding-in-aspnet-web-api)
+
 
