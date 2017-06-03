@@ -52,3 +52,12 @@ system.net.mail
 
 
 https://stackoverflow.com/questions/18606715/asp-net-web-api-generate-all-parameters-from-model-help-pages
+
+
+sql link check faylY stugelu hamar
+
+regex validation
+
+uniqkey mail-i hamar rollback-ov
+
+#### [Sending HTML Form Data in ASP.NET Web API: File Upload and Multipart MIME](https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/sending-html-form-data-part-2)
